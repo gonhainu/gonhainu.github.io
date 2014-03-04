@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Landscape]]></title>
-  <link href="http://gonhainu.github.io/atom.xml" rel="self"/>
-  <link href="http://gonhainu.github.io/"/>
-  <updated>2014-03-04T17:23:43+09:00</updated>
-  <id>http://gonhainu.github.io/</id>
+  <link href="http://blog.gonhainu.com/atom.xml" rel="self"/>
+  <link href="http://blog.gonhainu.com/"/>
+  <updated>2014-03-04T17:26:58+09:00</updated>
+  <id>http://blog.gonhainu.com/</id>
   <author>
     <name><![CDATA[gonhainu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[test]]></title>
-    <link href="http://gonhainu.github.io/blog/2014/03/04/test/"/>
+    <link href="http://blog.gonhainu.com/blog/2014/03/04/test/"/>
     <updated>2014-03-04T17:20:34+09:00</updated>
-    <id>http://gonhainu.github.io/blog/2014/03/04/test</id>
+    <id>http://blog.gonhainu.com/blog/2014/03/04/test</id>
     <content type="html"><![CDATA[<h1>TEST</h1>
 ]]></content>
   </entry>

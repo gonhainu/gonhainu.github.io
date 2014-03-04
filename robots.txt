@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://gonhainu.github.io/sitemap.xml 
+Sitemap: http://blog.gonhainu.com/sitemap.xml 
