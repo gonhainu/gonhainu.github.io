@@ -24,8 +24,15 @@
 <link href="/assets/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
 <script language="JavaScript">
-$(document).ready( function () {
-  $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+// $(document).ready( function () {
+//   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
+// });
+jQuery(function ($) {
+  $("a[href^='http']:not([href*='" + location.hostname "', a[href^='ftp'])").click(function (){
+    if ($(this).attr("target") === undefined) {
+      $(this).attr("target", "_blank");
+    }
+  });
 });
 </script>
 
