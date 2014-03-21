@@ -28,7 +28,7 @@
 //   $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank');
 // });
 jQuery(function ($) {
-  $("a[href^='http']:not([href*='" + location.hostname "', a[href^='ftp'])").click(function (){
+  $("a[href^='http']:not([href*='" + location.hostname + "'], a[href^='ftp'])").click(function (){
     if ($(this).attr("target") === undefined) {
       $(this).attr("target", "_blank");
     }
