@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Landscape]]></title>
+  <title><![CDATA[真面目に遊べ（仮）]]></title>
   <link href="http://blog.gonhainu.com/atom.xml" rel="self"/>
   <link href="http://blog.gonhainu.com/"/>
-  <updated>2014-03-21T10:57:47+09:00</updated>
+  <updated>2014-03-21T17:31:06+09:00</updated>
   <id>http://blog.gonhainu.com/</id>
   <author>
     <name><![CDATA[gonhainu]]></name>
