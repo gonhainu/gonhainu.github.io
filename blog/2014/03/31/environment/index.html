@@ -204,20 +204,24 @@ $(document).ready( function () {
         
           <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.gonhainu.com/blog/2014/03/31/environment/" data-via="gonhainu" data-counturl="http://blog.gonhainu.com/blog/2014/03/31/environment/" data-lang="ja">Tweet</a>
+  <div class="twitter">
+    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://blog.gonhainu.com/blog/2014/03/31/environment/" data-via="gonhainu" data-counturl="http://blog.gonhainu.com/blog/2014/03/31/environment/" data-lang="ja">Tweet</a>
+  </div>
   
   
-  <div class="g-plusone" data-size="medium"></div>
+  <div class="hatena">
+    <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
+        data-hatena-bookmark-layout="standard"
+        data-hatena-bookmark-url="http://blog.gonhainu.com/blog/2014/03/31/environment/">
+      <img src="http://b.st-hatena.com/images/entry-button/button-only.gif"
+          alt="このエントリーをはてなブックマークに追加" width="20" height="20"
+          style="border: none">
+    </a>
+  </div>
   
-  <a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button"
-      data-hatena-bookmark-layout="standard"
-      data-hatena-bookmark-url="http://blog.gonhainu.com/blog/2014/03/31/environment/">
-    <img src="http://b.st-hatena.com/images/entry-button/button-only.gif"
-        alt="このエントリーをはてなブックマークに追加" width="20" height="20"
-        style="border: none">
-  </a>
-  
+  <div class="facebook">
     <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  </div>
   
 </div>
 
@@ -304,9 +308,6 @@ $(document).ready( function () {
     var c,e=d.createDocumentFragment(),f=d.getElementsByTagName("script")[0],
     a=function(a,b){if(!d.getElementById(b)){c=d.createElement("script");
     c.src=a;c.id=b||null;c.async=true;e.appendChild(c);}};
-
-    w.___gcfg={lang:"ja"};
-    a("https://apis.google.com/js/plusone.js");
 
 
     a("//platform.twitter.com/widgets.js");
