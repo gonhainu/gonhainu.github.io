@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 開発環境 | 真面目に遊べ（仮）]]></title>
   <link href="http://blog.gonhainu.com/blog/categories/kai-fa-huan-jing/atom.xml" rel="self"/>
   <link href="http://blog.gonhainu.com/"/>
-  <updated>2014-04-11T19:55:40+09:00</updated>
+  <updated>2014-04-11T19:59:50+09:00</updated>
   <id>http://blog.gonhainu.com/</id>
   <author>
     <name><![CDATA[gonhainu]]></name>
@@ -18,7 +18,12 @@
     <link href="http://blog.gonhainu.com/blog/2014/03/31/environment/"/>
     <updated>2014-03-31T10:33:51+09:00</updated>
     <id>http://blog.gonhainu.com/blog/2014/03/31/environment</id>
-    <content type="html"><![CDATA[<h2>アプリ</h2>
+    <content type="html"><![CDATA[<p>MBAにインストールしているツールをテキトーに列挙します．</p>
+
+<!-- more -->
+
+
+<h2>アプリ</h2>
 
 <ul>
 <li>Google Chrome &ndash; ウェブブラウザ</li>
