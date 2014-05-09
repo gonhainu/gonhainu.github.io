@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 開発環境 | 真面目に遊べ（仮）]]></title>
   <link href="http://blog.gonhainu.com/blog/categories/kai-fa-huan-jing/atom.xml" rel="self"/>
   <link href="http://blog.gonhainu.com/"/>
-  <updated>2014-05-09T10:25:19+09:00</updated>
+  <updated>2014-05-09T10:27:02+09:00</updated>
   <id>http://blog.gonhainu.com/</id>
   <author>
     <name><![CDATA[gonhainu]]></name>
@@ -12,19 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[eclipse-settings]]></title>
-    <link href="http://blog.gonhainu.com/blog/2014/04/14/eclipse-settings/"/>
-    <updated>2014-04-14T15:40:09+09:00</updated>
-    <id>http://blog.gonhainu.com/blog/2014/04/14/eclipse-settings</id>
-    <content type="html"><![CDATA[<h1>Eclipseの設定(Color Theme, Vimライクなエディタ)</h1>
-
-<p>Eclipseを頻繁に使うようになるのでとりあえず最低限の設定をした．</p>
-
-<h2>Eclipse Color Theme</h2>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[MBAにインストールしているツール]]></title>
