@@ -4,7 +4,7 @@
   <title><![CDATA[真面目に遊べ（仮）]]></title>
   <link href="http://blog.gonhainu.com/atom.xml" rel="self"/>
   <link href="http://blog.gonhainu.com/"/>
-  <updated>2014-05-10T19:09:26+09:00</updated>
+  <updated>2014-05-10T19:21:23+09:00</updated>
   <id>http://blog.gonhainu.com/</id>
   <author>
     <name><![CDATA[gonhainu]]></name>
@@ -20,6 +20,9 @@
     <id>http://blog.gonhainu.com/blog/2014/05/09/python-entrance1</id>
     <content type="html"><![CDATA[<p>なんか研究してるなかでデータを可視化するときにgnuplotを使ってましたが，
 拡張性とか再利用性とか不足してるなと思い，Pythonを使うようになりました．</p>
+
+<!-- more -->
+
 
 <h2>ライブラリインストール</h2>
 
